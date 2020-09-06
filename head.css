@@ -1,0 +1,30 @@
+p{
+	font:bold;
+	color: #fff;
+	font-size: 50px;
+	padding left: 20px; 
+	}
+body{
+	background-image: url('http://i1.ytimg.com/vi/PUOun9RImC8/maxresdefault.jpg');
+	background-size: cover;
+}
+.tm-logo{
+	float: left;
+	}
+.tm-nav{
+	float: right;
+	}
+.tm-nav ul li{
+	display:inline-block; 
+}
+.tm-nav ul li a{
+	color: #e60073;
+	padding: 20px 20px;	
+}
+.tm-nav ul li a:hover{
+	color: red;
+}
+.backimg{
+	padding-left: 10px;
+	margin-top: 10px;
+}
